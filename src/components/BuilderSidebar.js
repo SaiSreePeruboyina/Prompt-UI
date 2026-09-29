@@ -55,7 +55,7 @@ function BuilderSidebar({
                     <AlertDialogHeader>
                       <AlertDialogTitle>Delete Page</AlertDialogTitle>
                       <AlertDialogDescription>
-                        Are you sure you want to delete "{page.name}"? This action cannot be undone.
+                        Are you sure you want to delete &quot;{page.name}&quot;? This action cannot be undone.
                       </AlertDialogDescription>
                     </AlertDialogHeader>
                     <AlertDialogFooter>

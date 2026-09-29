@@ -36,7 +36,7 @@ const Login = () => {
           <button type="submit" className="bg-purple-600 hover:bg-purple-700 p-3 rounded font-semibold transition-all"> Log In
           </button>
         </form>
-        <p className="text-sm text-gray-400 mt-4 text-center"> Don't have an account?{" "}
+        <p className="text-sm text-gray-400 mt-4 text-center"> Don&apos; have an account?{" "}
           <Link href="/signup" className="text-purple-400 hover:underline"> Sign up</Link>
         </p>
       </div>
